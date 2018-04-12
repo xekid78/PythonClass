@@ -2,7 +2,7 @@
 クラス
 
 ## 処理
-クラスで"helloworld"と出力します。
+クラスで`Hello World`と出力します。
 
 ## コード
 ```
@@ -13,13 +13,13 @@ class Greeting:
     def helloworld(self):
         print(self.msg)
 
-gree = Greeting("hello world")
+gree = Greeting("Hello World")
 gree.helloworld()
 ```
 
 ## 出力結果  
 ```
-hello world
+Hello World
 ```
   
 ## 開発環境
