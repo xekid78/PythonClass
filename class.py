@@ -5,5 +5,5 @@ class Greeting:
     def helloworld(self):
         print(self.msg)
 
-gree = Greeting("hello world")
+gree = Greeting("Hello World")
 gree.helloworld()
